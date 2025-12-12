@@ -1,30 +1,31 @@
 import React from "react";
 
 const projects = [
-  {
-    name: "Smart Plant Pot",
-    tech: "Arduino • C++ • IoT • Sensors • Cloud",
-    desc: "An IoT-based system that displays plant emotions and monitors soil moisture in real-time.",
-    link: "https://github.com/Rishita-chawla/project1"
-  },
+  
   {
     name: "Weather App",
-    tech: "JavaScript • HTML • CSS • OpenWeather API",
+    tech: "JavaScript , HTML , CSS , OpenWeather API",
     desc: "A simple live weather checker that fetches real-time weather data using OpenWeather API.",
     link: "https://github.com/Rishita-chawla/weather-app"
   },
   {
     name: "To-Do List",
-    tech: "JavaScript • HTML • CSS",
+    tech: "JavaScript , HTML , CSS",
     desc: "A clean and simple task tracking app that allows users to manage daily tasks.",
     link: "https://github.com/Rishita-chawla/to-do-list"
   },
   {
     name: "TextUtils",
-    tech: "React • JavaScript • Bootstrap",
+    tech: "React , JavaScript , Bootstrap",
     desc: "A text transformation tool with features like uppercase, lowercase, remove spaces, and more.",
     link: "https://rishita-chawla.github.io/TextUtils/"
-  }
+  },
+  {
+    name: "My Netflix Website",
+    tech: "HTML and CSS",
+    desc: "A static clone of Netflix homepage using HTML and CSS.",
+    link: "https://github.com/Rishita-chawla/project1"
+  },
 ];
 
 export default function Projects() {
