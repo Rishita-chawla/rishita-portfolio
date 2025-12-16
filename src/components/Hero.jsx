@@ -15,7 +15,7 @@ export default function Hero() {
 
           <div className="cta-row">
             <a className="btn" href="#projects">View Projects</a>
-            <a className="btn btn-ghost" href="/Rishita chawla .pdf" download>Download Resume</a>
+            <a className="btn btn-ghost" href="/rishita-chawla.pdf" download>Download Resume</a>
           </div>
 
           <div className="links-row">
