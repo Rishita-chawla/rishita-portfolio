@@ -537,4 +537,16 @@ a:focus {
   scroll-margin-top: 96px;
 }
 
+.skill-icon {
+  width: 44px;
+  height: 44px;
+  font-size: 32px;       /* for react-icons */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.skill-icon img {
+  filter: none;
+}
+
 
